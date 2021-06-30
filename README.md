@@ -24,6 +24,6 @@ generates a semi-random chord progression (taking those parameters
 into account).
 
 The ChordsGeneratorGUI.py file contains the UI. This is the file to run 
-to start the application.
+to start the application. The UI was made with the Tkinter interface.
 
 // Cicada Flight
